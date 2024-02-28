@@ -41,6 +41,7 @@
 
 <a href="https://arseneybaav.ru/#form"><img src="https://i.imgur.com/xOsfnOw.png" alt="call"></a>
 <a href="https://arseneybaav.ru/#price"><img src="https://i.imgur.com/3huKtuv.png" alt="call"></a>
+<a href="https://arseneybaav.ru/#works"><img src="https://imgur.com/069f336d-79f9-4594-ba48-e0c588e3518a" alt="call"></a>
 
 ---
 
