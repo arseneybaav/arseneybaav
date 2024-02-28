@@ -1,7 +1,7 @@
 
 # Привет 👋, меня зовут Арсений!
 
-<img src="https://arseneybaav.ru/img/github.png" alt="banner">
+<img src="[https://arseneybaav.ru/img/github.png](https://2.downloader.disk.yandex.ru/preview/02bf68fdebeb165de3a4f17045a69a3bea340fef1c68113d75a2a087bf9d4e71/inf/HotQY_Tym3bhRtMwOw3V0PcX_9TyvIYn733JdrnP3j4ZM_4h6vyR-T9djX7v8R62zQvS84qVQ9WGGKrWuxvxng%3D%3D?uid=909437707&filename=banner.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=909437707&tknv=v2&size=1903x945)" alt="banner">
 
 <b>Привет, я Арсений, full stack веб-разработчик с уклоном в бэкэнд-разработку.</b> Я активно занимаюсь созданием различных проектов, таких как интернет-магазины, визитки и многостраничные сайты, с использованием современных фреймворков.
 
