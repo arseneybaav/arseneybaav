@@ -40,6 +40,7 @@
 ###
 
 <a href="https://arseneybaav.ru/#form"><img src="https://i.imgur.com/xOsfnOw.png" alt="call"></a>
+<a href="https://arseneybaav.ru/#price"><img src="https://i.imgur.com/3huKtuv.png" alt="call"></a>
 
 ---
 
