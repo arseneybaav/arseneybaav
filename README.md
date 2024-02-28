@@ -37,9 +37,9 @@
     <img src="https://egkatzioura.files.wordpress.com/2021/09/nginx-logo-rgb-large.png" title="nginx" alt="nginx" width="120" height="40"/>&nbsp
   </div>
 
-### 🤙
+###
 
-<img src="https://i.imgur.com/xOsfnOw.png" alt="call">
+<a href="https://arseneybaav.ru/#form"><img src="https://i.imgur.com/xOsfnOw.png" alt="call"></a>
 
 ---
 
