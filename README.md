@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/f5f68d36-edac-4a40-9db4-b0d96c5eab32)
 # Привет 👋, меня зовут Арсений!
 
 <img src="https://i.imgur.com/iV2QuF2.png" alt="banner">
@@ -38,8 +38,8 @@
   </div>
 
 ### 🏅 Мои достижения:
-<img src="https://imgur.com/UlZgXer" title="github" alt="github" width="50%" height="50%"/>&nbsp;
-<img src="https://imgur.com/ukGK91T" title="github" alt="github" width="50%" height="50%"/>&nbsp;
+<img src="https://i.imgur.com/UlZgXer.png" title="github" alt="github" width="50%" height="50%"/>&nbsp;
+<img src="https://i.imgur.com/ukGK91T.png" title="github" alt="github" width="50%" height="50%"/>&nbsp;
 
 ###
 
