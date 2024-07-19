@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f5f68d36-edac-4a40-9db4-b0d96c5eab32)
+
 # Привет 👋, меня зовут Арсений!
 
 <img src="https://i.imgur.com/iV2QuF2.png" alt="banner">
