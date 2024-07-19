@@ -38,8 +38,8 @@
   </div>
 
 ### 🏅 Мои достижения:
-<img src="https://i.imgur.com/UlZgXer.png" title="github" alt="github" width="30%" height="50%"/>&nbsp;
-<img src="https://i.imgur.com/ukGK91T.png" title="github" alt="github" width="30%" height="50%"/>&nbsp;
+<img src="https://i.imgur.com/UlZgXer.png" title="github" alt="github" width="40%" height="50%"/>&nbsp;
+<img src="https://i.imgur.com/ukGK91T.png" title="github" alt="github" width="50%" height="50%"/>&nbsp;
 
 ###
 
