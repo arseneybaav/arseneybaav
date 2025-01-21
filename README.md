@@ -1,16 +1,19 @@
 
-# Привет 👋, меня зовут Арсений!
+# Hey 👋, my name is Arseney!
 
 <img src="https://i.imgur.com/iV2QuF2.png" alt="banner">
 
-<b>Привет! Меня зовут Арсений, и я full stack веб-разработчик.</b> Мое главное занятие - создание сайтов под ключ с полной настройкой и оптимизацией. Я специализируюсь на веб-разработке с нуля, начиная с дизайна и заканчивая серверной настройкой. Я также имею опыт работы с VDS и VPS серверами, где провожу настройку веб-сервера для оптимальной производительности сайтов.
-Моя цель - создавать хорошо дизайнинрованые, красивые и продуктивные сайты, которые привлекают внимание и удовлетворяют потребности моих клиентов. Я уверен, что веб-разработка - это не просто работа, а моя страсть, и я стремлюсь делать каждый проект уникальным и выдающимся. Буду рад воплотить в жизнь ваши идеи и помочь сделать ваш бизнес успешным в онлайн-среде. Давайте создадим что-то потрясающее вместе!
+<b>Hello! My name is Arseney, and I am a full-stack web developer.</b> My primary focus is creating turnkey websites with full configuration and optimization. I specialize in web development from scratch, starting with design and ending with server setup.
 
-### 👨‍💻 Обо мне:
+I also have experience working with VDS and VPS servers, where I configure web servers for optimal website performance. My goal is to create well-designed, visually appealing, and productive websites that attract attention and meet my clients' needs.
 
-Я самостоятельно изучаю веб-разработку уже более полутора лет. Мой опыт включает работу с различными технологиями, такими как фронтенд-фреймворки, базы данных и серверные технологии.Также, я активно развиваю свой <a href="https://www.youtube.com/@arseneybaav">YouTube-канал</a>, где делюсь познавательными роликами и уроками по веб-разработке, чтобы помочь другим людям улучшить свои навыки в этой области.
+I believe web development is not just a job but my passion, and I strive to make every project unique and outstanding. I’d be happy to bring your ideas to life and help make your business successful online. Let’s create something amazing together!
 
-### 💻 Технологии:
+### 👨‍💻 About me:
+
+I have been studying web development independently for over three years. My experience includes working with various technologies, such as front-end frameworks, databases, and server-side technologies.
+
+### 💻 Technologies:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
@@ -30,14 +33,14 @@
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="github" alt="github" width="40" height="40"/>&nbsp;
 </div>
 
-### 🛠️ Инструменты:
+### 🛠️ Tools:
 
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
     <img src="https://egkatzioura.files.wordpress.com/2021/09/nginx-logo-rgb-large.png" title="nginx" alt="nginx" width="120" height="40"/>&nbsp
   </div>
 
-### 🏅 Мои достижения:
+### 🏅 My awards:
 <img src="https://i.imgur.com/UlZgXer.png" title="github" alt="github" width="40%" height="50%"/>&nbsp;
 <img src="https://i.imgur.com/ukGK91T.png" title="github" alt="github" width="50%" height="50%"/>&nbsp;
 
