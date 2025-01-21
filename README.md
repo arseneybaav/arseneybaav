@@ -1,9 +1,9 @@
 
-# Hey 👋, my name is Arseney!
+# Hey 👋, my name is Arseniy!
 
 <img src="https://i.imgur.com/iV2QuF2.png" alt="banner">
 
-<b>Hello! My name is Arseney, and I am a full-stack web developer.</b> My primary focus is creating turnkey websites with full configuration and optimization. I specialize in web development from scratch, starting with design and ending with server setup.
+<b>Hello! My name is Arseniy, and I am a full-stack web developer.</b> My primary focus is creating turnkey websites with full configuration and optimization. I specialize in web development from scratch, starting with design and ending with server setup.
 
 I also have experience working with VDS and VPS servers, where I configure web servers for optimal website performance. My goal is to create well-designed, visually appealing, and productive websites that attract attention and meet my clients' needs.
 
